@@ -1,0 +1,6 @@
+gradio
+ollama
+diffusers
+torch
+transformers
+Pillow
